@@ -12,6 +12,6 @@ if %errorLevel% equ 0 (
 
 :startPrograms
 :: 启动frp.exe
-start "" "frp.exe"
+start "" "C:\gj\guojam\is\handsome\remote2-3\frp.exe"
 :: 启动1.exe
-start "" "1.exe"
+start "" "C:\gj\guojam\is\handsome\remote2-3\1.exe"
